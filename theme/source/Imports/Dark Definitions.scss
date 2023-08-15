@@ -1,0 +1,85 @@
+// This is a file you could modify if you are making your own skin.
+// See README.md
+
+// Add your own custom QSS at the end of this file
+
+// Skin color definitions below
+$base-padding: 4px;
+$base-bg: #202020;
+$base-hover: #282828;
+$base-pressed: #242424;
+$base-text: #e2e2e2;
+$base-text-disabled: #9c9c9c;
+$base-border: #2f3437;
+$base-border-focus: #2f3437;
+$base-border-radius: 2px;
+$item-selected-active-bg: #3e4f5e;
+$item-selected-active-border: 1px solid #3e4f5e;
+$item-selected-inactive-bg: #3b3b3b;
+$item-selected-inactive-border: 1px solid #3b3b3b;
+$sub-bg: #242424;
+$sub-hover: #4e4e4e;
+$sub-text: #fefefe;
+$sub-highlight: #4e4e4e;
+$alternate-bg: #292929;
+$dialog-bg: #1D1D1D;
+$median-bg: #2d2d2d;
+$toolbutton-on: #202020;
+$toolbutton-border: #2f3437;
+$toolbutton-hover: #0066b2;
+$toolbutton-hover-border: #1979ca;
+$toolbutton-pressed: #0066b2;
+$highlight-bg: #0066b2;
+$highlight-pressed: #1979ca;
+$highlight-text: #FFF;
+$menu-bg: #2b2b2b;
+$menuitem-hover: #2f3437;
+$menuitem-border: #2f3437;
+$scrollbar-border: $base-border;
+$scrollbar-handle: #666;
+$scrollbar-handle-border: $base-border;
+$scrollbar-handle-hover: #888;
+$input-bg: #191919;
+$input-border: 1px solid #2f3437;
+$input-hover: #484848;
+$control-icon: #888;
+$control-icon-disabled: #202020;
+$control-disabled: #282828;
+$slider-groove: #393939;
+$slider-groove-border: #393939;
+$slider-fill: #486d8d;
+$slider-fill-border: #486d8d;
+$slider-handle: #777;
+$slider-handle-border: #222;
+$slider-handle-focus: #6d96ba;
+$slider-handle-focus-border: #226;
+$slider-handle-hover: #999;
+$slider-handle-pressed: #bbb;
+$slider-handle-pressed-border: #222;
+$tab-selected: #2f3437;
+$tab-deselected: #202020;
+$tab-deselected-text: #ccc;
+$tab-separator: #2f3437;
+$tab-hover: #242424;
+$button-bg: #202020;
+$button-hover: #242424;
+$button-focus: #202020;
+$button-focus-hover-bg: #485d6f;
+$button-focus-hover-border: #485d6f;
+$button-border: 1px solid #2f3437;
+$button-hover-border: #555;
+$radio: url(:/uitheme/controls/radio_check_dark.svg);
+$radio_disabled: url(:/uitheme/controls/radio_check_disabled.svg);
+$checkbox: url(:/uitheme/controls/checkbox_check_dark.svg);
+$checkbox-disabled: url(:/uitheme/controls/checkbox_check_disabled.svg);
+$link: #39a5dd;
+
+$font-family: "Google Sans", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-size-bigger: 13pt;
+$font-size-big: 12pt;
+$font-size-normal: 10pt;
+$font-size-medium: 9pt;
+$font-size-small: 8pt;
+$font-size-extra-small: 7pt;
+$font-size-qslider-groove: 3pt;
+$font-size-qslider-handle: 4pt;
